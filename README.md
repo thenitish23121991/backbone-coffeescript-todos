@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backbone Todos - in CoffeeScript #
 
 Todos was originally written by [Jérôme Gravel-Niquet](http://jgn.me/) using [Backbone](http://documentcloud.github.com/backbone/) in plain JavaScript.
@@ -14,3 +15,9 @@ The above links to the annotated source for both versions as well.
 CoffeeScript version by [Jason Giedymin](http://jasongiedymin.com)
 
 Original version by [Jérôme Gravel-Niquet](http://jgn.me/)
+=======
+backbone-coffeescript-todos
+===========================
+
+A todo creater using BackboneJs and Coffeescript
+>>>>>>> 57963f7cd3556e6ff3dd1451801019aed0aafde0
